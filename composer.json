@@ -3,16 +3,16 @@
   "description": "Laravel Shared Locking Plugin",
   "require": {
     "php": ">= 7.2",
-    "laravel/framework": "5.1.* || 6.*",
+    "laravel/framework": "5.1.* || 6.* || 7.* || 8.*",
     "barryvdh/laravel-ide-helper": "~2"
   },
   "require-dev": {
-    "illuminate/database": "5.1.* || 6.*",
-    "phpunit/phpunit": "~4.8 || 8.*",
+    "illuminate/database": "5.1.* || 6.* || 8.*",
+    "phpunit/phpunit": "~4.8 || 8.* || 9.*",
     "fzaninotto/faker": "~1.4",
     "mockery/mockery": "0.9.* || ^1.0",
     "phpspec/phpspec": "~2.1 || ~5.1",
-    "laravel/laravel": "5.1.* || 6.*",
+    "laravel/laravel": "5.1.* || 6.* || 7.* || 8.*",
     "orchestra/testbench": "4.*",
     "ext-pcntl": "*"
   },
